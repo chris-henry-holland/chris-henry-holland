@@ -13,8 +13,9 @@ My main language is Python, and have experience with the numpy, scipy and pytorc
 <h3> Python </h3>
 <h4>Smaller Projects</h4>
 
-- <b>[Algorithms and Data Structures]</b>   
-  - [Algorithms]- including graph algorithms, prime sieves and string searching algorithms   
+- <b>[Algorithms and Data Structures](https://github.com/chris-henry-holland/Algorithms_and_Datastructures/tree/main)</b>   
+  - [Algorithms](https://github.com/chris-henry-holland/Algorithms_and_Datastructures/tree/main/Algorithms)- including graph algorithms and string searching algorithms
+  - [Data structures](https://github.com/chris-henry-holland/Algorithms_and_Datastructures/tree/main/Data_structures)- including prime sieves, segment trees, Fenwick trees (aka binary indexed tree).  
 - <b>Project Euler Solutions</b>  
 
 <h2> 🤳 Connect with me:</h2>
