@@ -9,7 +9,7 @@ My main language is Python, and have experience with the numpy, scipy and pytorc
 - MBBS, King's College London (qualified 2017)
 - BA/MSci Natural Sciences (Astrophysics), University of Cambridge, First class honors (graduated 2011)
 - BSc Mathematics, Open University, First class honors (completed 2017)
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects</h2>
 <h3> Python </h3>
 <h4>Smaller Projects</h4>
 
