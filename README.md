@@ -20,7 +20,8 @@ My main language is Python, and have experience with the numpy, scipy and pytorc
 
 
 <h2> ⚡ Accounts on other coding platforms </h2>
- - <a href="https://leetcode.com/sveng101/" target="_blank">Leetcode</a>
+
+- <a href="https://leetcode.com/sveng101/" target="_blank">Leetcode</a>
 
 <h2> 🤳 Connect with me:</h2>
 
