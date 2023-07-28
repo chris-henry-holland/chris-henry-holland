@@ -18,6 +18,10 @@ My main language is Python, and have experience with the numpy, scipy and pytorc
   - [Data structures](https://github.com/chris-henry-holland/Portfolio/tree/main/Python_projects/Algorithms_and_Datastructures/Data_structures)- including prime sieves, segment trees, Fenwick trees (aka binary indexed tree).  
 - <b>[Project Euler Solutions](https://github.com/chris-henry-holland/Portfolio/tree/main/Python_projects/Project_Euler)</b>  
 
+
+<h2> ⚡ Accounts on other coding platforms </h2>
+ - <a href="https://leetcode.com/sveng101/" target="_blank">Leetcode</a>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
