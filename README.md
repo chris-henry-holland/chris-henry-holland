@@ -18,6 +18,9 @@ My main language is Python, and have experience with the numpy, scipy and pytorc
   - [Data structures](https://github.com/chris-henry-holland/Portfolio/tree/main/Python_projects/Algorithms_and_Datastructures/Data_structures)- including prime sieves, segment trees, Fenwick trees (aka binary indexed tree).  
 - <b>[Project Euler Solutions](https://github.com/chris-henry-holland/Portfolio/tree/main/Python_projects/Project_Euler)</b>  
 
+<h5>Minor and Experimental Projects</h5>
+
+- <b>[Graph classes](https://github.com/chris-henry-holland/Portfolio/tree/main/Python_projects/Graph_classes)</b>- A project used to practice and experiment with object oriented programming techniques, including multiple inheritance and polymorphism, working out an effective way of building a robust, flexible and extensible framework with effective unit testing. Consists of a collection of classes representing mathematical graphs, providing a framework for working with both weighted and unweighted as well as directed or undirected graphs, giving access to an extensive library of graph and network algorithms including path finding algorithms, network flow algorithms, strongly connected component algorithms and bridge and articulation point algorithms. Additionally includes classes for graphs based on multidimensional grid traversal.
 
 <h2> ⚡ Accounts on other coding platforms </h2>
 
